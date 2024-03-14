@@ -16,10 +16,20 @@
   border-radius: 4px;
   text-transform: uppercase;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
+  max-width: max-content;
 }
 
 .button:hover {
   background: linear-gradient(#FFB60D, #E59317);;
+}
+
+.button.secundario {
+  background: var(--color-10);
+  color: var(--color-2);
+}
+
+.button.secundario:hover {
+  background: var(--color-9);
 }
 
 @media (max-width:600px) {
