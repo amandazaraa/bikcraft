@@ -1,16 +1,16 @@
-@import './commons/components.css';
-@import './commons/tipography.css';
-@import './commons/colors.css';
+@import './commons/componentes.css';
+@import './commons/tipografia.css';
+@import './commons/cores.css';
 
 @import './global/commons.css';
 
 @import './global/header.css';
 
 @import './home/intro.css';
-@import './home/tecnology.css';
-@import './home/partners.css';
-@import './home/testimony.css';
+@import './home/tecnologia.css';
+@import './home/parceiros.css';
+@import './home/depoimento.css';
 
-@import './bicycles/bicycle-list.css';
+@import './bicicletas/lista-bicicletas.css';
 
 @import './seguros/seguros.css';

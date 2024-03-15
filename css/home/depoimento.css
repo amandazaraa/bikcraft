@@ -1,7 +1,7 @@
 .depoimento {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background-color: var(--color-p1);
+  background-color: var(--cor-p1);
   overflow: hidden;
 }
 
@@ -27,7 +27,7 @@
 .depoimento p::before,
 .depoimento p::after {
   font-size: 5rem;
-  color: var(--color-p2);
+  color: var(--cor-p2);
   position: absolute;
 }
 
